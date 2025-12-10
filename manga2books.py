@@ -29,7 +29,7 @@ manga2books - A tool to download manga and convert it to EPUB format for compati
 
 Usage:
   1. Copy the Manga URL:
-    - Visit the Manga Bat website: https://h.mangabat.com/
+    - Visit the Manga Bat website: https://www.mangabats.com/
     - Find the manga you want to download.
     - Copy the manga page URL from your browser's address bar.
 
